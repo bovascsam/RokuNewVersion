@@ -16,7 +16,16 @@
         "rokunewversion9deeb7cb": {}
       },
       "function": {
-        "RokueFileUploadFunction": {}
+        "RokueFileUploadFunction": {
+          "deploymentBucketName": "amplify-amplify30df6ec365724-staging-142039-deployment",
+          "s3Key": "amplify-builds/RokueFileUploadFunction-69344c3633666e665062-build.zip"
+        }
+      },
+      "storage": {
+        "rokuStorage": {}
+      },
+      "api": {
+        "rokufileUploadAPI": {}
       }
     }
   }

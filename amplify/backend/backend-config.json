@@ -50,6 +50,24 @@
       "service": "Lambda"
     }
   },
+  "parameters": {
+    "AMPLIFY_function_RokueFileUploadFunction_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "RokueFileUploadFunction"
+        }
+      ]
+    },
+    "AMPLIFY_function_RokueFileUploadFunction_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "RokueFileUploadFunction"
+        }
+      ]
+    }
+  },
   "storage": {
     "rokuStorage": {
       "dependsOn": [],
